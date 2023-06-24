@@ -3,10 +3,7 @@
 My name is Josenaldo but you can call me JOM. 
 
 <!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+![snake animation](https://github.com/josenaldo/josenaldo/blob/output/github-contribution-grid-snake2.svg)
 
 <!--
 **josenaldo/josenaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
