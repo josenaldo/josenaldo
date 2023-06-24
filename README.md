@@ -3,11 +3,7 @@
 My name is Josenaldo but you can call me JOM. 
 
 <!--- snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
 <!--
 **josenaldo/josenaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
