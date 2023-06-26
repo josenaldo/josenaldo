@@ -12,15 +12,41 @@ These are the skills with which I'm entirely comfortable and can start working i
 
 <div style="display: flex; flex-direction: row; gap: 2rem;">
     <span>
-    <img alt="HTML" src="images/skills/html.svg" width="48px" >
+      <img alt="HTML" src="images/skills/html.svg" width="48px" >
+      <br>
+      <span>CSS</span>
+    </span>
+
+    <span>
+      <img alt="CSS" src="images/skills/css.svg" width="48px" >
+      <br>
+      <span>CSS</span>
+    </span>
+
+    <span>
+    <img alt="JS" src="images/skills/JS.svg" width="48px" >
+    <br>HTML
+    </span>
+
+    <span>
+    <img alt="React" src="images/skills/react.svg" width="48px" >
     <br/>HTML
     </span>
-    <img alt="CSS" src="images/skills/css.svg" width="48px" >
-    <img alt="JS" src="images/skills/JS.svg" width="48px" >
-    <img alt="React" src="images/skills/react.svg" width="48px" >
+
+    <span>
     <img alt="NextJS" src="images/skills/nextjs.svg" width="48px">
+    <br/>HTML
+    </span>
+
+    <span>
     <img alt="MUI" src="images/skills/mui.svg" width="48px" >
+    <br/>HTML
+    </span>
+
+    <span>
     <img alt="Redux" src="images/skills/redux.svg" width="48px" >
+    <br/>HTML
+    </span>
   </div>
 </div>
 
