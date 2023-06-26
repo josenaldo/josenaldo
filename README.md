@@ -11,7 +11,7 @@ Throughout my career, I've gained a wide array of technical skills, varying in l
 These are the skills with which I'm entirely comfortable and can start working immediately without the need for review or reference. I am highly proficient and up-to-date with the current practices.
 
 <span style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 2rem;">
-    
+
   <span style="text-align: center">
     <img alt="HTML" src="images/skills/html.svg" width="48px" >
     <br>
@@ -197,32 +197,23 @@ I invite you to explore my website for a closer look at my journey and my work!
 
 I'm always open to new opportunities and connections. If you'd like to get in touch, please feel free to reach out to me via any of the following channels:
 
-<div class='icons'>
+<div style='display: flex; flex-wrap: wrap; gap: 1rem'>
 
-  <div class='icon'>
-    <a href='mailto:josenaldo@gmail.com' target='_blank'>
-      <img alt="Send a email" src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white" height="48px" />
-    </a>
-  </div>
+  <a href='mailto:josenaldo@gmail.com' target='_blank'>
+    <img alt="Send a email" src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white" height="48px" />
+  </a>
 
-  <div class='icon'>
-    <a href='https://github.com/josenaldo' target='_blank'>
-      <img alt="Reach me on Github" src="https://img.shields.io/badge/github-%23181717.svg?style=flat-square&logo=github&logoColor=white" height="48px" />
-    </a>
-  </div>
+  <a href='https://github.com/josenaldo' target='_blank'>
+    <img alt="Reach me on Github" src="https://img.shields.io/badge/github-%23181717.svg?style=flat-square&logo=github&logoColor=white" height="48px">
+  </a>
 
-  <div class='icon'>
-    <a href='https://wa.me/+5534991830215' target='_blank'>
-      <img alt="Reach me on Whatsapp" src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=flat-square&logo=whatsapp&logoColor=white" height="48px" />
-    </a>
-  </div>
+  <a href='https://wa.me/+5534991830215' target='_blank'>
+    <img alt="Reach me on Whatsapp" src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=flat-square&logo=whatsapp&logoColor=white" height="48px" />
+  </a>
 
-  <div class='icon'>
-    <a href='https://www.linkedin.com/in/josenaldo' target='_blank'>
-      <img alt="Reach me on Linkedin" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white" height="48px" />
-    </a>
-  </div>
-
+  <a href='https://www.linkedin.com/in/josenaldo' target='_blank'>
+    <img alt="Reach me on Linkedin" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white" height="48px" />
+  </a>
 </div>
 
 ## 📊 GitHub Stats
