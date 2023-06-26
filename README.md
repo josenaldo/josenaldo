@@ -197,7 +197,7 @@ I invite you to explore my website for a closer look at my journey and my work!
 
 I'm always open to new opportunities and connections. If you'd like to get in touch, please feel free to reach out to me via any of the following channels:
 
-<div style='display: flex; flex-wrap: wrap; gap: 1rem'>
+<div style='display: flex'>
 
   <a href='mailto:josenaldo@gmail.com' target='_blank'>
     <img alt="Send a email" src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white" height="48px" />
