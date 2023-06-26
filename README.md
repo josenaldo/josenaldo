@@ -10,13 +10,7 @@ Throughout my career, I've gained a wide array of technical skills, varying in l
 
 These are the skills with which I'm entirely comfortable and can start working immediately without the need for review or reference. I am highly proficient and up-to-date with the current practices.
 
-<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="49px" />
-<img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="49px" />
-<img alt="Javascrip" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=css3&logoColor=323330" height="49px" />
-<img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=323330" height="49px" />
-<img alt="NextJS" src="https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" height="49px" />
-<img alt="Material UI" src="https://img.shields.io/badge/Material%20UI-007FFF.svg?style=for-the-badge&logo=mui&logoColor=white" height="49px" />
-<img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" height="49px" />
+<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="49px" /> <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="49px" /> <img alt="Javascrip" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=css3&logoColor=323330" height="49px" /> <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=323330" height="49px" /> <img alt="NextJS" src="https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" height="49px" /> <img alt="Material UI" src="https://img.shields.io/badge/Material%20UI-007FFF.svg?style=for-the-badge&logo=mui&logoColor=white" height="49px" /> <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" height="49px" />
 
 ### Proficient (Requires Review)
 
