@@ -19,7 +19,13 @@ My name is Josenaldo but you can call me JOM.
 <a href="https://www.linkedin.com/in/josenaldo/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
 
-#My Resume
+## My skills
+
+
+![Josenaldo's github stats](https://github-readme-stats.vercel.app/api?username=josenaldo&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=josenaldo&theme=tokyonight" alt="mystreak"/>
+![Josenaldo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josenaldo&theme=tokyonight&layout=compact)
+
 My Website
 
 My skills
