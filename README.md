@@ -16,34 +16,13 @@ These are the skills with which I'm entirely comfortable and can start working i
 
 These are skills I've extensively worked with in the past but might require some time to review and update myself on the latest practices and techniques before I can work effectively with them again.
 
-<img alt="Java" src="https://img.shields.io/badge/Java-Core-f89820?style=for-the-badge&labelColor=5382a1" height="49px" />
-<img alt="EJB" src="https://img.shields.io/badge/Java-EJB-f89820?style=for-the-badge&labelColor=5382a1" height="49px" />
-<img alt="Swing" src="https://img.shields.io/badge/Java-Swing-f89820?style=for-the-badge&labelColor=5382a1" height="49px" />
-<img alt="JPA" src="https://img.shields.io/badge/Java-JPA-f89820?style=for-the-badge&labelColor=5382a1" height="49px" />
-<img alt="JDBC" src="https://img.shields.io/badge/Java-JDBC-f89820?style=for-the-badge&labelColor=5382a1" height="49px" />
-
-<img alt="Spring Framework" src="https://img.shields.io/badge/Spring-Framework-71ad51?style=for-the-badge&labelColor=3f602d" height="49px" />
-<img alt="Spring Boot" src="https://img.shields.io/badge/Spring-Boot-71ad51?style=for-the-badge&labelColor=3f602d" height="49px" />
-<img alt="Spring MVC" src="https://img.shields.io/badge/Spring-MVC-71ad51?style=for-the-badge&labelColor=3f602d" height="49px" />
-<img alt="Spring Data" src="https://img.shields.io/badge/Spring-Data-71ad51?style=for-the-badge&labelColor=3f602d" height="49px" />
-<img alt="Spring Security" src="https://img.shields.io/badge/Spring-Security-71ad51?style=for-the-badge&labelColor=3f602d" height="49px" />
-
-<img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-58666c?style=for-the-badge&labelColor=3f602d" height="49px" />
-<img alt="Maven" src="https://img.shields.io/badge/Maven-5b2a65?style=for-the-badge&labelColor=3f602d" height="49px" />
-<img alt="Mysql" src="https://img.shields.io/badge/Mysql-106c82?style=for-the-badge&labelColor=3f602d" height="49px" />
+<img alt="Java" src="https://img.shields.io/badge/Java-Core-f89820?style=for-the-badge&labelColor=5382a1" height="49px" /> <img alt="EJB" src="https://img.shields.io/badge/Java-EJB-f89820?style=for-the-badge&labelColor=5382a1" height="49px" /> <img alt="Swing" src="https://img.shields.io/badge/Java-Swing-f89820?style=for-the-badge&labelColor=5382a1" height="49px" /> <img alt="JPA" src="https://img.shields.io/badge/Java-JPA-f89820?style=for-the-badge&labelColor=5382a1" height="49px" /> <img alt="JDBC" src="https://img.shields.io/badge/Java-JDBC-f89820?style=for-the-badge&labelColor=5382a1" height="49px" /> <img alt="Spring Framework" src="https://img.shields.io/badge/Spring-Framework-71ad51?style=for-the-badge&labelColor=3f602d" height="49px" /> <img alt="Spring Boot" src="https://img.shields.io/badge/Spring-Boot-71ad51?style=for-the-badge&labelColor=3f602d" height="49px" /> <img alt="Spring MVC" src="https://img.shields.io/badge/Spring-MVC-71ad51?style=for-the-badge&labelColor=3f602d" height="49px" /> <img alt="Spring Data" src="https://img.shields.io/badge/Spring-Data-71ad51?style=for-the-badge&labelColor=3f602d" height="49px" /> <img alt="Spring Security" src="https://img.shields.io/badge/Spring-Security-71ad51?style=for-the-badge&labelColor=3f602d" height="49px" /> <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-58666c?style=for-the-badge&labelColor=3f602d" height="49px" /> <img alt="Maven" src="https://img.shields.io/badge/Maven-5b2a65?style=for-the-badge&labelColor=3f602d" height="49px" /> <img alt="Mysql" src="https://img.shields.io/badge/Mysql-106c82?style=for-the-badge&labelColor=3f602d" height="49px" />
 
 ### Familiar (Requires Practice)
 
 These are skills I'm familiar with and have some degree of experience with, but would need some time to practice and deepen my proficiency before I could work effectively with them.
 
-<img alt="Node" src="https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=node.js&logoColor=white" height="49px" />
-<img alt="Express" src="https://img.shields.io/badge/Node-000000?style=for-the-badge&logo=express&logoColor=white" height="49px" />
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="49px" />
-<img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="49px" />
-<img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="49px" />
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="49px" />
-<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="49px" />
-<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="49px" />
+<img alt="Node" src="https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=node.js&logoColor=white" height="49px" /> <img alt="Express" src="https://img.shields.io/badge/Node-000000?style=for-the-badge&logo=express&logoColor=white" height="49px" /> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="49px" /> <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="49px" /> <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="49px" /> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="49px" /> <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="49px" /> <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="49px" />
 
 ### Learner (Requires Learning)
 
