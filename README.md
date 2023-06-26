@@ -1,37 +1,3 @@
-<style type="text/css">
-
-.center {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-}
-
-.icons {
-  display: flex;
-  flex-direction: row;
-  justify-content: flex-start;
-  align-items: center;
-  flex-wrap: wrap;
-  gap: 2rem;
-}
-
-.icon {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-.icon p {
-  font-size: 0.8rem;
-}
-
-.icon .white {
-  filter: brightness(0) invert(1);
-}
-
-</style>
-
 # Hi 👋, I'm Josenaldo de Oliveira Matos Filho
 
 My name is Josenaldo but you can call me JOM. I'm a software developer based in Uberlândia, Minas Gerais, Brasil. I specialize in full stack development and have more than 20 years of experience.
