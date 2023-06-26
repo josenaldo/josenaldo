@@ -1,6 +1,6 @@
 # Hi 👋, I'm Josenaldo de Oliveira Matos Filho
 
-My name is Josenaldo but you can call me JOM. 
+My name is Josenaldo but you can call me JOM.
 
 <!--- snake -->
 <!-- ![snake gif](https://github.com/josenaldo/josenaldo/blob/output/github-contribution-grid-snake.gif) -->
@@ -13,19 +13,17 @@ My name is Josenaldo but you can call me JOM.
 ## Connect with me
 
 <div>
-<a href="mailto:josenaldo@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://github.com/josenaldo"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://wa.me/05534991830215"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-<a href="https://www.linkedin.com/in/josenaldo/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</div>
 
-## My skills
+[![GMail](https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white)](mailto:josenaldo@gmail.com)
+[![Github](https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white)](https://github.com/josenaldo)
+[![Whatsapp](https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white)](https://wa.me/05534991830215)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josenaldo)
 
+## Some Stats
 
 ![Josenaldo's github stats](https://github-readme-stats.vercel.app/api?username=josenaldo&show_icons=true&theme=tokyonight)
 ![Josenaldo's streak](https://github-readme-streak-stats.herokuapp.com/?user=josenaldo&theme=tokyonight)
 ![Josenaldo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josenaldo&theme=tokyonight&layout=compact)
-![Josenaldo's Trophy](https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&theme=onestar&no-frame=true&column=3&row=2)
 
 My Website
 
