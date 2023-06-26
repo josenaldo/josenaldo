@@ -11,10 +11,10 @@ Throughout my career, I've gained a wide array of technical skills, varying in l
 These are the skills with which I'm entirely comfortable and can start working immediately without the need for review or reference. I am highly proficient and up-to-date with the current practices.
 
 <div style="display: flex; flex-direction: row; gap: 2rem;">
-    <P>
+    <span>
     <img alt="HTML" src="images/skills/html.svg" width="48px" >
     HTML
-    <p>
+    </span>
     <img alt="CSS" src="images/skills/css.svg" width="48px" >
     <img alt="JS" src="images/skills/JS.svg" width="48px" >
     <img alt="React" src="images/skills/react.svg" width="48px" >
