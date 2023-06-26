@@ -22,62 +22,21 @@ These are the skills with which I'm entirely comfortable and can start working i
 
 These are skills I've extensively worked with in the past but might require some time to review and update myself on the latest practices and techniques before I can work effectively with them again.
 
-<div style="display: flex; flex-direction: row; gap: 2rem;">
-  <div class='icon'>
-    <img alt="Java" src="images/skills/java.svg" width="48px" >
-    <p>Java<p>
-  </div>
-  <div class='icon'>
-    <img alt="Java" src="images/skills/java.svg" width="48px" >
-    <p>EJB<p>
-  </div>
-  <div class='icon'>
-    <img alt="Java" src="images/skills/java.svg" width="48px" >
-    <p>Swing<p>
-  </div>
-  <div class='icon'>
-    <img alt="Java" src="images/skills/java.svg" width="48px" >
-    <p>JPA<p>
-  </div>
-  <div class='icon'>
-    <img alt="Java" src="images/skills/java.svg" width="48px" >
-    <p>JDBC<p>
-  </div>
-  <div class='icon'>
-    <img alt="spring" src="images/skills/spring.svg" width="48px" >
-    <p>Spring<p>
-  </div>
-  <div class='icon'>
-    <img alt="spring" src="images/skills/spring.svg" width="48px" >
-    <p>Spring Boot<p>
-  </div>
-  <div class='icon'>
-    <img alt="spring" src="images/skills/spring.svg" width="48px" >
-    <p>Spring Security<p>
-  </div>
-  <div class='icon'>
-    <img alt="spring" src="images/skills/spring.svg" width="48px" >
-    <p>Spring MVC<p>
-  </div>
-  <div class='icon'>
-    <img alt="spring" src="images/skills/spring.svg" width="48px" >
-    <p>Spring Data<p>
-  </div>
+<img alt="Java" src="https://img.shields.io/badge/Java-Core-f89820?style=for-the-badge&labelColor=5382a1" height="32px" />
+<img alt="EJB" src="https://img.shields.io/badge/Java-EJB-f89820?style=for-the-badge&labelColor=5382a1" height="32px" />
+<img alt="Swing" src="https://img.shields.io/badge/Java-Swing-f89820?style=for-the-badge&labelColor=5382a1" height="32px" />
+<img alt="JPA" src="https://img.shields.io/badge/Java-JPA-f89820?style=for-the-badge&labelColor=5382a1" height="32px" />
+<img alt="JDBC" src="https://img.shields.io/badge/Java-JDBC-f89820?style=for-the-badge&labelColor=5382a1" height="32px" />
 
-  <div class='icon'>
-    <img alt="hibernate" src="images/skills/hibernate.svg" width="48px" >
-    <p>Hibernate<p>
-  </div>
-  <div class='icon'>
-    <img alt="maven" src="images/skills/maven.svg" width="48px" >
-    <p>Maven<p>
-  </div>
-  <div class='icon'>
-    <img alt="mysql" src="images/skills/mysql.svg" width="48px" >
-    <p>Mysql<p>
-  </div>
+<img alt="Spring Framework" src="https://img.shields.io/badge/Spring-Framework-71ad51?style=for-the-badge&labelColor=3f602d" height="32px" />
+<img alt="Spring Boot" src="https://img.shields.io/badge/Spring-Boot-71ad51?style=for-the-badge&labelColor=3f602d" height="32px" />
+<img alt="Spring MVC" src="https://img.shields.io/badge/Spring-MVC-71ad51?style=for-the-badge&labelColor=3f602d" height="32px" />
+<img alt="Spring Data" src="https://img.shields.io/badge/Spring-Data-71ad51?style=for-the-badge&labelColor=3f602d" height="32px" />
+<img alt="Spring Security" src="https://img.shields.io/badge/Spring-Security-71ad51?style=for-the-badge&labelColor=3f602d" height="32px" />
 
-</div>
+<img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-58666c?style=for-the-badge&labelColor=3f602d" height="32px" />
+<img alt="Maven" src="https://img.shields.io/badge/Maven-5b2a65?style=for-the-badge&labelColor=3f602d" height="32px" />
+<img alt="Mysql" src="https://img.shields.io/badge/Mysql-106c82?style=for-the-badge&labelColor=3f602d" height="32px" />
 
 ### Familiar (Requires Practice)
 
