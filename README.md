@@ -10,99 +10,55 @@ Throughout my career, I've gained a wide array of technical skills, varying in l
 
 These are the skills with which I'm entirely comfortable and can start working immediately without the need for review or reference. I am highly proficient and up-to-date with the current practices.
 
-<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="32px" />
-<img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="32px" />
-<img alt="Javascrip" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=css3&logoColor=323330" height="32px" />
-<img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=323330" height="32px" />
-<img alt="NextJS" src="https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" height="32px" />
-<img alt="Material UI" src="https://img.shields.io/badge/Material%20UI-007FFF.svg?style=for-the-badge&logo=mui&logoColor=white" height="32px" />
-<img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" height="32px" />
+<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="49px" />
+<img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="49px" />
+<img alt="Javascrip" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=css3&logoColor=323330" height="49px" />
+<img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=323330" height="49px" />
+<img alt="NextJS" src="https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" height="49px" />
+<img alt="Material UI" src="https://img.shields.io/badge/Material%20UI-007FFF.svg?style=for-the-badge&logo=mui&logoColor=white" height="49px" />
+<img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" height="49px" />
 
 ### Proficient (Requires Review)
 
 These are skills I've extensively worked with in the past but might require some time to review and update myself on the latest practices and techniques before I can work effectively with them again.
 
-<img alt="Java" src="https://img.shields.io/badge/Java-Core-f89820?style=for-the-badge&labelColor=5382a1" height="32px" />
-<img alt="EJB" src="https://img.shields.io/badge/Java-EJB-f89820?style=for-the-badge&labelColor=5382a1" height="32px" />
-<img alt="Swing" src="https://img.shields.io/badge/Java-Swing-f89820?style=for-the-badge&labelColor=5382a1" height="32px" />
-<img alt="JPA" src="https://img.shields.io/badge/Java-JPA-f89820?style=for-the-badge&labelColor=5382a1" height="32px" />
-<img alt="JDBC" src="https://img.shields.io/badge/Java-JDBC-f89820?style=for-the-badge&labelColor=5382a1" height="32px" />
+<img alt="Java" src="https://img.shields.io/badge/Java-Core-f89820?style=for-the-badge&labelColor=5382a1" height="49px" />
+<img alt="EJB" src="https://img.shields.io/badge/Java-EJB-f89820?style=for-the-badge&labelColor=5382a1" height="49px" />
+<img alt="Swing" src="https://img.shields.io/badge/Java-Swing-f89820?style=for-the-badge&labelColor=5382a1" height="49px" />
+<img alt="JPA" src="https://img.shields.io/badge/Java-JPA-f89820?style=for-the-badge&labelColor=5382a1" height="49px" />
+<img alt="JDBC" src="https://img.shields.io/badge/Java-JDBC-f89820?style=for-the-badge&labelColor=5382a1" height="49px" />
 
-<img alt="Spring Framework" src="https://img.shields.io/badge/Spring-Framework-71ad51?style=for-the-badge&labelColor=3f602d" height="32px" />
-<img alt="Spring Boot" src="https://img.shields.io/badge/Spring-Boot-71ad51?style=for-the-badge&labelColor=3f602d" height="32px" />
-<img alt="Spring MVC" src="https://img.shields.io/badge/Spring-MVC-71ad51?style=for-the-badge&labelColor=3f602d" height="32px" />
-<img alt="Spring Data" src="https://img.shields.io/badge/Spring-Data-71ad51?style=for-the-badge&labelColor=3f602d" height="32px" />
-<img alt="Spring Security" src="https://img.shields.io/badge/Spring-Security-71ad51?style=for-the-badge&labelColor=3f602d" height="32px" />
+<img alt="Spring Framework" src="https://img.shields.io/badge/Spring-Framework-71ad51?style=for-the-badge&labelColor=3f602d" height="49px" />
+<img alt="Spring Boot" src="https://img.shields.io/badge/Spring-Boot-71ad51?style=for-the-badge&labelColor=3f602d" height="49px" />
+<img alt="Spring MVC" src="https://img.shields.io/badge/Spring-MVC-71ad51?style=for-the-badge&labelColor=3f602d" height="49px" />
+<img alt="Spring Data" src="https://img.shields.io/badge/Spring-Data-71ad51?style=for-the-badge&labelColor=3f602d" height="49px" />
+<img alt="Spring Security" src="https://img.shields.io/badge/Spring-Security-71ad51?style=for-the-badge&labelColor=3f602d" height="49px" />
 
-<img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-58666c?style=for-the-badge&labelColor=3f602d" height="32px" />
-<img alt="Maven" src="https://img.shields.io/badge/Maven-5b2a65?style=for-the-badge&labelColor=3f602d" height="32px" />
-<img alt="Mysql" src="https://img.shields.io/badge/Mysql-106c82?style=for-the-badge&labelColor=3f602d" height="32px" />
+<img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-58666c?style=for-the-badge&labelColor=3f602d" height="49px" />
+<img alt="Maven" src="https://img.shields.io/badge/Maven-5b2a65?style=for-the-badge&labelColor=3f602d" height="49px" />
+<img alt="Mysql" src="https://img.shields.io/badge/Mysql-106c82?style=for-the-badge&labelColor=3f602d" height="49px" />
 
 ### Familiar (Requires Practice)
 
 These are skills I'm familiar with and have some degree of experience with, but would need some time to practice and deepen my proficiency before I could work effectively with them.
 
-<div class='icons'>
-  <div class='icon'>
-    <img alt="nodejs" src="images/skills/nodejs.svg" width="48px" >
-    <p>Nodejs<p>
-  </div>
-  <div class='icon'>
-    <img alt="expressjs" src="images/skills/expressjs.svg" width="48px" class='white'>
-    <p>ExpressJS<p>
-  </div>
-  <div class='icon'>
-    <img alt="python" src="images/skills/python.svg" width="48px">
-    <p>Python<p>
-  </div>
-  <div class='icon'>
-    <img alt="django" src="images/skills/django.svg" width="48px">
-    <p>Django<p>
-  </div>
-  <div class='icon'>
-    <img alt="pandas" src="images/skills/pandas.svg" width="48px" class='white'>
-    <p>Pandas<p>
-  </div>
-  <div class='icon'>
-    <img alt="postgreesql" src="images/skills/postgreesql.svg" width="48px" >
-    <p>PostgreeSQL<p>
-  </div>
-  <div class='icon'>
-    <img alt="git" src="images/skills/git.svg" width="48px" >
-    <p>Git<p>
-  </div>
-  <div class='icon'>
-    <img alt="docker" src="images/skills/docker.svg" width="48px" >
-    <p>Docker<p>
-  </div>
-</div>
+<img alt="Node" src="https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=node.js&logoColor=white" height="49px" />
+<img alt="Express" src="https://img.shields.io/badge/Node-000000?style=for-the-badge&logo=express&logoColor=white" height="49px" />
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="49px" />
+<img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="49px" />
+<img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="49px" />
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="49px" />
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="49px" />
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="49px" />
 
 ### Learner (Requires Learning)
 
 These are the technologies I'm actively learning and working to add to my skill set.
 
-<div class='icons'>
-  <div class='icon'>
-    <img alt="chatgpt" src="images/skills/chatgpt.svg" width="48px" >
-    <p>ChatGPT<p>
-  </div>
-  <div class='icon'>
-    <img alt="graphql" src="images/skills/graphql.svg" width="48px" >
-    <p>GraphQL<p>
-  </div>
-  <div class='icon'>
-    <img alt="typescript" src="images/skills/typescript.svg" width="48px" >
-    <p>Typescript<p>
-  </div>
-  <div class='icon'>
-    <img alt="mongo" src="images/skills/mongo.svg" width="48px" >
-    <p>MongoDB<p>
-  </div>
-  <div class='icon'>
-    <img alt="aws" src="images/skills/aws.svg" width="48px" >
-    <p>AWS<p>
-  </div>
-</div>
+<img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" height="49px" />
+<img alt="Typescript" src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="49px" />
+<img alt="Mongo" src="https://img.shields.io/badge/Mongo-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="49px" />
+<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="49px" />
 
 ## 🛠️ Experience, Projects and Education
 
@@ -126,19 +82,19 @@ I'm always open to new opportunities and connections. If you'd like to get in to
 <div style="display: flex">
 
   <a href='mailto:josenaldo@gmail.com' target='_blank'>
-    <img alt="Send a email" src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white" height="32px" />
+    <img alt="Send a email" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" height="49px" />
   </a>
 
   <a href='https://github.com/josenaldo' target='_blank'>
-    <img alt="Reach me on Github" src="https://img.shields.io/badge/github-%23181717.svg?style=flat-square&logo=github&logoColor=white" height="32px">
+    <img alt="Reach me on Github" src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" height="49px">
   </a>
 
   <a href='https://wa.me/+5534991830215' target='_blank'>
-    <img alt="Reach me on Whatsapp" src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=flat-square&logo=whatsapp&logoColor=white" height="32px" />
+    <img alt="Reach me on Whatsapp" src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" height="49px" />
   </a>
 
   <a href='https://www.linkedin.com/in/josenaldo' target='_blank'>
-    <img alt="Reach me on Linkedin" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white" height="32px" />
+    <img alt="Reach me on Linkedin" src="https://img.shields.io/badge/linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="49px" />
   </a>
 </div>
 
