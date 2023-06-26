@@ -23,8 +23,9 @@ My name is Josenaldo but you can call me JOM.
 
 
 ![Josenaldo's github stats](https://github-readme-stats.vercel.app/api?username=josenaldo&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=josenaldo&theme=tokyonight" alt="mystreak"/>
+![Josenaldo's streak](https://github-readme-streak-stats.herokuapp.com/?user=josenaldo&theme=tokyonight)
 ![Josenaldo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josenaldo&theme=tokyonight&layout=compact)
+![Josenaldo's Trophy](https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&theme=onestar&no-frame=true&column=3&row=2)
 
 My Website
 
