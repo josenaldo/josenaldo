@@ -10,7 +10,7 @@ Throughout my career, I've gained a wide array of technical skills, varying in l
 
 These are the skills with which I'm entirely comfortable and can start working immediately without the need for review or reference. I am highly proficient and up-to-date with the current practices.
 
-<div style="display: flex; flex-direction: row; gap: 1rem;">
+<div style="display: flex; flex-direction: row; gap: 2rem;">
     <img alt="HTML" src="images/skills/html.svg" width="48px" >
     <img alt="CSS" src="images/skills/css.svg" width="48px" >
     <img alt="JS" src="images/skills/JS.svg" width="48px" >
@@ -25,7 +25,7 @@ These are the skills with which I'm entirely comfortable and can start working i
 
 These are skills I've extensively worked with in the past but might require some time to review and update myself on the latest practices and techniques before I can work effectively with them again.
 
-<div class='icons'>
+<div style="display: flex; flex-direction: row; gap: 2rem;">
   <div class='icon'>
     <img alt="Java" src="images/skills/java.svg" width="48px" >
     <p>Java<p>
