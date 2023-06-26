@@ -28,10 +28,7 @@ These are skills I'm familiar with and have some degree of experience with, but 
 
 These are the technologies I'm actively learning and working to add to my skill set.
 
-<img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" height="49px" />
-<img alt="Typescript" src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="49px" />
-<img alt="Mongo" src="https://img.shields.io/badge/Mongo-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="49px" />
-<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="49px" />
+<img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" height="49px" /> <img alt="Typescript" src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="49px" /> <img alt="Mongo" src="https://img.shields.io/badge/Mongo-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="49px" /> <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="49px" />
 
 ## 🛠️ Experience, Projects and Education
 
