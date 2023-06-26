@@ -10,44 +10,45 @@ Throughout my career, I've gained a wide array of technical skills, varying in l
 
 These are the skills with which I'm entirely comfortable and can start working immediately without the need for review or reference. I am highly proficient and up-to-date with the current practices.
 
-<div style="display: flex; flex-direction: row; gap: 2rem;">
-    <span>
-      <img alt="HTML" src="images/skills/html.svg" width="48px" >
-      <br>
-      <span>CSS</span>
-    </span>
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 2rem;">
+    
+  <span style="text-align: center">
+    <img alt="HTML" src="images/skills/html.svg" width="48px" >
+    <br>
+    HTML
+  </span>
 
-    <span>
-      <img alt="CSS" src="images/skills/css.svg" width="48px" >
-      <br>
-      <span>CSS</span>
-    </span>
+ <span style="text-align: center">
+    <img alt="CSS" src="images/skills/css.svg" width="48px" >
+    <br>
+    CSS
+  </span>
 
-    <span>
+  <span style="text-align: center">
     <img alt="JS" src="images/skills/JS.svg" width="48px" >
-    <br>HTML
-    </span>
+    <br>
+    JS  
+  </span>
 
-    <span>
+  <span style="text-align: center">
     <img alt="React" src="images/skills/react.svg" width="48px" >
-    <br/>HTML
-    </span>
+    <br/>React
+  </span>
 
-    <span>
+  <span style="text-align: center">
     <img alt="NextJS" src="images/skills/nextjs.svg" width="48px">
-    <br/>HTML
-    </span>
+    <br/>NextJS
+  </span>
 
-    <span>
+  <span style="text-align: center">
     <img alt="MUI" src="images/skills/mui.svg" width="48px" >
-    <br/>HTML
-    </span>
+    <br/>MUI
+  </span>
 
-    <span>
+  <span style="text-align: center">
     <img alt="Redux" src="images/skills/redux.svg" width="48px" >
-    <br/>HTML
-    </span>
-  </div>
+    <br/>REDUX
+  </span>
 </div>
 
 ### Proficient (Requires Review)
