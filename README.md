@@ -13,7 +13,7 @@ These are the skills with which I'm entirely comfortable and can start working i
 <div style="display: flex; flex-direction: row; gap: 2rem;">
     <span>
     <img alt="HTML" src="images/skills/html.svg" width="48px" >
-    HTML
+    <br/>HTML
     </span>
     <img alt="CSS" src="images/skills/css.svg" width="48px" >
     <img alt="JS" src="images/skills/JS.svg" width="48px" >
