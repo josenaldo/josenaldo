@@ -10,46 +10,13 @@ Throughout my career, I've gained a wide array of technical skills, varying in l
 
 These are the skills with which I'm entirely comfortable and can start working immediately without the need for review or reference. I am highly proficient and up-to-date with the current practices.
 
-<span style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 2rem;">
-
-  <span style="text-align: center">
-    <img alt="HTML" src="images/skills/html.svg" width="48px" >
-    <br>
-    HTML
-  </span>
-
- <span style="text-align: center">
-    <img alt="CSS" src="images/skills/css.svg" width="48px" >
-    <br>
-    CSS
-  </span>
-
-  <span style="text-align: center">
-    <img alt="JS" src="images/skills/JS.svg" width="48px" >
-    <br>
-    JS  
-  </span>
-
-  <span style="text-align: center">
-    <img alt="React" src="images/skills/react.svg" width="48px" >
-    <br/>React
-  </span>
-
-  <span style="text-align: center">
-    <img alt="NextJS" src="images/skills/nextjs.svg" width="48px">
-    <br/>NextJS
-  </span>
-
-  <span style="text-align: center">
-    <img alt="MUI" src="images/skills/mui.svg" width="48px" >
-    <br/>MUI
-  </span>
-
-  <span style="text-align: center">
-    <img alt="Redux" src="images/skills/redux.svg" width="48px" >
-    <br/>REDUX
-  </span>
-</span>
+<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="32px" />
+<img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="32px" />
+<img alt="Javascrip" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=css3&logoColor=323330" height="32px" />
+<img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=323330" height="32px" />
+<img alt="NextJS" src="https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" height="32px" />
+<img alt="Material UI" src="https://img.shields.io/badge/Material%20UI-007FFF.svg?style=for-the-badge&logo=mui&logoColor=white" height="32px" />
+<img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" height="32px" />
 
 ### Proficient (Requires Review)
 
@@ -197,22 +164,22 @@ I invite you to explore my website for a closer look at my journey and my work!
 
 I'm always open to new opportunities and connections. If you'd like to get in touch, please feel free to reach out to me via any of the following channels:
 
-<div style='display: flex'>
+<div style="display: flex">
 
   <a href='mailto:josenaldo@gmail.com' target='_blank'>
-    <img alt="Send a email" src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white" height="48px" />
+    <img alt="Send a email" src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white" height="32px" />
   </a>
 
   <a href='https://github.com/josenaldo' target='_blank'>
-    <img alt="Reach me on Github" src="https://img.shields.io/badge/github-%23181717.svg?style=flat-square&logo=github&logoColor=white" height="48px">
+    <img alt="Reach me on Github" src="https://img.shields.io/badge/github-%23181717.svg?style=flat-square&logo=github&logoColor=white" height="32px">
   </a>
 
   <a href='https://wa.me/+5534991830215' target='_blank'>
-    <img alt="Reach me on Whatsapp" src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=flat-square&logo=whatsapp&logoColor=white" height="48px" />
+    <img alt="Reach me on Whatsapp" src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=flat-square&logo=whatsapp&logoColor=white" height="32px" />
   </a>
 
   <a href='https://www.linkedin.com/in/josenaldo' target='_blank'>
-    <img alt="Reach me on Linkedin" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white" height="48px" />
+    <img alt="Reach me on Linkedin" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white" height="32px" />
   </a>
 </div>
 
