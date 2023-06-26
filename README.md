@@ -10,35 +10,14 @@ Throughout my career, I've gained a wide array of technical skills, varying in l
 
 These are the skills with which I'm entirely comfortable and can start working immediately without the need for review or reference. I am highly proficient and up-to-date with the current practices.
 
-<div class="icons">
-  <div class="icon">
+<div style="display: flex; flex-direction: row; gap: 1rem;">
     <img alt="HTML" src="images/skills/html.svg" width="48px" >
-    <p>HTML<p>
-  </div>
-  
-  <div class='icon'>
     <img alt="CSS" src="images/skills/css.svg" width="48px" >
-    <p>CSS<p>
-  </div>
-  <div class='icon'>
     <img alt="JS" src="images/skills/JS.svg" width="48px" >
-    <p>Javascript<p>
-  </div>
-  <div class='icon'>
     <img alt="React" src="images/skills/react.svg" width="48px" >
-    <p>React<p>
-  </div>
-  <div class='icon'>
     <img alt="NextJS" src="images/skills/nextjs.svg" width="48px">
-    <p>NextJS<p>
-  </div>
-  <div class='icon'>
     <img alt="MUI" src="images/skills/mui.svg" width="48px" >
-    <p>MUI<p>
-  </div>
-  <div class='icon'>
     <img alt="Redux" src="images/skills/redux.svg" width="48px" >
-    <p>Redux<p>
   </div>
 </div>
 
