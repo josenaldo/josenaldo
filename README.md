@@ -10,7 +10,7 @@ Throughout my career, I've gained a wide array of technical skills, varying in l
 
 These are the skills with which I'm entirely comfortable and can start working immediately without the need for review or reference. I am highly proficient and up-to-date with the current practices.
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 2rem;">
+<span style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 2rem;">
     
   <span style="text-align: center">
     <img alt="HTML" src="images/skills/html.svg" width="48px" >
@@ -49,7 +49,7 @@ These are the skills with which I'm entirely comfortable and can start working i
     <img alt="Redux" src="images/skills/redux.svg" width="48px" >
     <br/>REDUX
   </span>
-</div>
+</span>
 
 ### Proficient (Requires Review)
 
