@@ -1,6 +1,4 @@
-# Hi 👋, I'm Josenaldo de Oliveira Matos Filho
-
-<style>
+<style type="text/css">
 
 .center {
   display: flex;
@@ -33,6 +31,8 @@
 }
 
 </style>
+
+# Hi 👋, I'm Josenaldo de Oliveira Matos Filho
 
 My name is Josenaldo but you can call me JOM. I'm a software developer based in Uberlândia, Minas Gerais, Brasil. I specialize in full stack development and have more than 20 years of experience.
 
