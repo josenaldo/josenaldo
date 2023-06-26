@@ -44,18 +44,18 @@ Throughout my career, I've gained a wide array of technical skills, varying in l
 
 These are the skills with which I'm entirely comfortable and can start working immediately without the need for review or reference. I am highly proficient and up-to-date with the current practices.
 
-<div class="icons">
-  <div class='icon'>
+<div style="display: flex; flex-direction: row; justify-content: flex-start; align-items: center; flex-wrap: wrap; gap: 2rem;">
+  <div style='display: flex; flex-direction: column; align-items: center;'>
     <img alt="HTML" src="images/skills/html.svg" width="48px" >
     <p>HTML<p>
   </div>
   
-  <div class='icon'>
+  <div style='display: flex; flex-direction: column; align-items: center;'>
     <img alt="CSS" src="images/skills/css.svg" width="48px" >
     <p>CSS<p>
   </div>
   <div class='icon'>
-    <img alt="JS" src="images/skills/js.svg" width="48px" >
+    <img alt="JS" src="images/skills/JS.svg" width="48px" >
     <p>Javascript<p>
   </div>
   <div class='icon'>
