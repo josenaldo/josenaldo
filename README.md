@@ -12,7 +12,7 @@ These are the skills with which I'm entirely comfortable and can start working i
 
 #### Sofwtare Development
 
-<div style="display: flex; flex-direction: row; gap: 10px; flex-wrap: wrap">
+<div style="display: flex; flex-direction: row; gap: 10px; flex-wrap: wrap; justify-content: center;">
 
   <img alt="OOP" src="https://img.shields.io/badge/OOP-233A51?style=for-the-badge&logoColor=fff" height="49px" />
 
@@ -28,7 +28,7 @@ These are the skills with which I'm entirely comfortable and can start working i
 
 #### Backend
 
-<div style="display: flex; flex-direction: row; gap: 10px; flex-wrap: wrap">
+<div style="display: flex; flex-direction: row; gap: 10px; flex-wrap: wrap; justify-content: center;">
 
   <img alt="Java" src="https://img.shields.io/badge/Java-5382a1?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTguODUxIDE4LjU2cy0uOTE3LjUzNC42NTMuNzE0YzEuOTAyLjIxOCAyLjg3NC4xODcgNC45NjktLjIxMSAwIDAgLjU1Mi4zNDYgMS4zMjEuNjQ2LTQuNjk5IDIuMDEzLTEwLjYzMy0uMTE4LTYuOTQzLTEuMTQ5bS0uNTc1LTIuNjI3cy0xLjAyOC43NjEuNTQyLjkyNGMyLjAzMi4yMDkgMy42MzYuMjI3IDYuNDEzLS4zMDggMCAwIC4zODQuMzg5Ljk4Ny42MDItNS42NzkgMS42NjEtMTIuMDA3LjEzLTcuOTQyLTEuMjE4bTQuODQtNC40NThjMS4xNTggMS4zMzMtLjMwNCAyLjUzMy0uMzA0IDIuNTMzczIuOTM5LTEuNTE4IDEuNTg5LTMuNDE4Yy0xLjI2MS0xLjc3Mi0yLjIyOC0yLjY1MiAzLjAwNy01LjY4OCAwLS4wMDEtOC4yMTYgMi4wNTEtNC4yOTIgNi41NzNtNi4yMTQgOS4wMjlzLjY3OS41NTktLjc0Ny45OTFjLTIuNzEyLjgyMi0xMS4yODggMS4wNjktMTMuNjY5LjAzMy0uODU2LS4zNzMuNzUtLjg5IDEuMjU0LS45OTguNTI3LS4xMTQuODI4LS4wOTMuODI4LS4wOTMtLjk1My0uNjcxLTYuMTU2IDEuMzE3LTIuNjQzIDEuODg3IDkuNTggMS41NTMgMTcuNDYyLS43IDE0Ljk3Ny0xLjgyTTkuMjkyIDEzLjIxcy00LjM2MiAxLjAzNi0xLjU0NCAxLjQxMmMxLjE4OS4xNTkgMy41NjEuMTIzIDUuNzctLjA2MiAxLjgwNi0uMTUyIDMuNjE4LS40NzcgMy42MTgtLjQ3N3MtLjYzNy4yNzItMS4wOTguNTg3Yy00LjQyOSAxLjE2NS0xMi45ODYuNjIzLTEwLjUyMi0uNTY4IDIuMDgyLTEuMDA2IDMuNzc2LS44OTIgMy43NzYtLjg5Mm03LjgyNCA0LjM3NGM0LjUwMy0yLjM0IDIuNDIxLTQuNTg5Ljk2OC00LjI4NS0uMzU1LjA3NC0uNTE1LjEzOC0uNTE1LjEzOHMuMTMyLS4yMDcuMzg1LS4yOTdjMi44NzUtMS4wMTEgNS4wODYgMi45ODEtLjkyOCA0LjU2MiAwLS4wMDEuMDctLjA2Mi4wOS0uMTE4TTE0LjQwMSAwczIuNDk0IDIuNDk0LTIuMzY1IDYuMzNjLTMuODk2IDMuMDc3LS44ODggNC44MzItLjAwMSA2LjgzNi0yLjI3NC0yLjA1My0zLjk0My0zLjg1OC0yLjgyNC01LjUzOSAxLjY0NC0yLjQ2OSA2LjE5Ny0zLjY2NSA1LjE5LTcuNjI3TTkuNzM0IDIzLjkyNGM0LjMyMi4yNzcgMTAuOTU5LS4xNTMgMTEuMTE2LTIuMTk4IDAgMC0uMzAyLjc3NS0zLjU3MiAxLjM5MS0zLjY4OC42OTQtOC4yMzkuNjEzLTEwLjkzNy4xNjggMC0uMDAxLjU1My40NTcgMy4zOTMuNjM5IiBmaWxsPSIjZmZmZmZmIiBjbGFzcz0iZmlsbC0wMDAwMDAiPjwvcGF0aD48L3N2Zz4=" height="49px" />
 
@@ -52,7 +52,7 @@ These are the skills with which I'm entirely comfortable and can start working i
 
 #### Frontend
 
-<div style="display: flex; flex-direction: row; gap: 10px; flex-wrap: wrap">
+<div style="display: flex; flex-direction: row; gap: 10px; flex-wrap: wrap; justify-content: center;">
 
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=fff" height="49px" />
 
@@ -74,7 +74,7 @@ These are the skills with which I'm entirely comfortable and can start working i
 
 #### Other
 
-<div style="display: flex; flex-direction: row; gap: 10px; flex-wrap: wrap">
+<div style="display: flex; flex-direction: row; gap: 10px; flex-wrap: wrap; justify-content: center;">
 
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" height="49px" />
 
@@ -86,7 +86,7 @@ These are the skills with which I'm entirely comfortable and can start working i
 
 This category encompasses skills that I have extensively worked with in the past, and as such, may require some time to review and update myself on the latest practices and techniques to work effectively with them again. Additionally, it includes technologies that I am currently working with, but have not yet acquired the depth of knowledge to consider myself an expert. I am actively learning and improving in these areas to broaden my skill set.
 
-<div style="display: flex; flex-direction: row; gap: 10px; flex-wrap: wrap">
+<div style="display: flex; flex-direction: row; gap: 10px; flex-wrap: wrap; justify-content: center;">
 
   <img alt="Typescript" src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" height="49px" />
 
@@ -112,7 +112,7 @@ This category encompasses skills that I have extensively worked with in the past
 
 These are skills I'm familiar with and have some degree of experience with, but would need some time to practice and deepen my proficiency before I could work effectively with them.
 
-<div style="display: flex; flex-direction: row; gap: 10px; flex-wrap: wrap">
+<div style="display: flex; flex-direction: row; gap: 10px; flex-wrap: wrap; justify-content: center;">
 
   <img alt="Node" src="https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=node.js&logoColor=fff" height="49px" />
 
@@ -128,7 +128,7 @@ These are skills I'm familiar with and have some degree of experience with, but 
 
 These are the technologies I'm actively learning and working to add to my skill set.
 
-<div style="display: flex; flex-direction: row; gap: 10px; flex-wrap: wrap">
+<div style="display: flex; flex-direction: row; gap: 10px; flex-wrap: wrap; justify-content: center;">
 
   <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=fff" height="49px" />
 
@@ -159,8 +159,7 @@ I invite you to explore my website for a closer look at my journey and my work!
 
 I'm always open to new opportunities and connections. If you'd like to get in touch, please feel free to reach out to me via any of the following channels:
 
-<div style="display: flex; flex-direction: row; gap: 10px; flex-wrap: wrap">
-
+<div style="display: flex; flex-direction: row; gap: 10px; flex-wrap: wrap; justify-content: center;">
 
   <a href='mailto:josenaldo@gmail.com' target='_blank'>
     <img alt="Send a email" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=fff" height="49px" />
@@ -183,10 +182,12 @@ I'm always open to new opportunities and connections. If you'd like to get in to
 
 Is anyone else obsessed with GitHub stats? I love seeing the stats of other developers, so I thought I'd share mine as well.
 
-<div class='center'>
+<div style="display: flex; flex-direction: column; gap: 10px; flex-wrap: wrap; align-items: center;">
 
 ![Josenaldo's github stats](https://github-readme-stats.vercel.app/api?username=josenaldo&show_icons=true&theme=tokyonight)
+
 ![Josenaldo's streak](https://github-readme-streak-stats.herokuapp.com/?user=josenaldo&theme=tokyonight)
+
 ![Josenaldo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josenaldo&theme=tokyonight&layout=compact)
 
 </div>
