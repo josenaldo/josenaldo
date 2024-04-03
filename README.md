@@ -68,7 +68,7 @@ These are the skills with which I'm entirely comfortable and can start working i
 
   <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=fff" height="49px" />
 
-  <img alt="React Admin" src="https://img.shields.io/badge/React%20Admin-007FFF.svg?style=for-the-badge&logo=react-admin&logoColor=fff" height="49px" />'
+  <img alt="React Admin" src="https://img.shields.io/badge/React%20Admin-007FFF.svg?style=for-the-badge&logo=react-admin&logoColor=fff" height="49px" />
 
 </div>
 
