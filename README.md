@@ -12,11 +12,19 @@ These are the skills with which I'm entirely comfortable and can start working i
 
 #### Sofwtare Development
 
-<img alt="OOP" src="https://img.shields.io/badge/OOP-233A51?style=for-the-badge&logoColor=fff" height="49px" />
-<img alt="SOLID" src="https://img.shields.io/badge/SOLID-233A51?style=for-the-badge&logoColor=fff" height="49px" />
-<img alt="Clean Code" src="https://img.shields.io/badge/Clean Code-233A51?style=for-the-badge&logoColor=fff" height="49px" />
-<img alt="Clean Architecture" src="https://img.shields.io/badge/Clean Architecture-233A51?style=for-the-badge&logoColor=fff" height="49px" />
-<img alt="Hexagonal Architecture" src="https://img.shields.io/badge/Hexagonal Architecture-233A51?style=for-the-badge&logoColor=fff" height="49px" />
+<div style="display: flex; flex-direction: row; gap: 5px; flex-wrap: wrap">
+
+  <img alt="OOP" src="https://img.shields.io/badge/OOP-233A51?style=for-the-badge&logoColor=fff" height="49px" />
+
+  <img alt="SOLID" src="https://img.shields.io/badge/SOLID-233A51?style=for-the-badge&logoColor=fff" height="49px" />
+
+  <img alt="Clean Code" src="https://img.shields.io/badge/Clean Code-233A51?style=for-the-badge&logoColor=fff" height="49px" />
+
+  <img alt="Clean Architecture" src="https://img.shields.io/badge/Clean Architecture-233A51?style=for-the-badge&logoColor=fff" height="49px" />
+  
+  <img alt="Hexagonal Architecture" src="https://img.shields.io/badge/Hexagonal Architecture-233A51?style=for-the-badge&logoColor=fff" height="49px" />
+
+</div>
 
 #### Backend
 
