@@ -24,6 +24,10 @@ These are the skills with which I'm entirely comfortable and can start working i
 
   <img alt="Hexagonal Architecture" src="https://img.shields.io/badge/Hexagonal Architecture-233A51?style=for-the-badge&logoColor=fff" height="49px" />
 
+  <img alt="Microservices" src="https://img.shields.io/badge/Microservices-233A51?style=for-the-badge&logoColor=fff" height="49px" />
+
+  <img alt="Design Patterns" src="https://img.shields.io/badge/Design%20Patterns-233A51?style=for-the-badge&logoColor=fff" height="49px" />
+
 </div>
 
 #### Backend
@@ -36,6 +40,8 @@ These are the skills with which I'm entirely comfortable and can start working i
 
   <img alt="JDBC" src="https://img.shields.io/badge/JDBC-5382a1?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTguODUxIDE4LjU2cy0uOTE3LjUzNC42NTMuNzE0YzEuOTAyLjIxOCAyLjg3NC4xODcgNC45NjktLjIxMSAwIDAgLjU1Mi4zNDYgMS4zMjEuNjQ2LTQuNjk5IDIuMDEzLTEwLjYzMy0uMTE4LTYuOTQzLTEuMTQ5bS0uNTc1LTIuNjI3cy0xLjAyOC43NjEuNTQyLjkyNGMyLjAzMi4yMDkgMy42MzYuMjI3IDYuNDEzLS4zMDggMCAwIC4zODQuMzg5Ljk4Ny42MDItNS42NzkgMS42NjEtMTIuMDA3LjEzLTcuOTQyLTEuMjE4bTQuODQtNC40NThjMS4xNTggMS4zMzMtLjMwNCAyLjUzMy0uMzA0IDIuNTMzczIuOTM5LTEuNTE4IDEuNTg5LTMuNDE4Yy0xLjI2MS0xLjc3Mi0yLjIyOC0yLjY1MiAzLjAwNy01LjY4OCAwLS4wMDEtOC4yMTYgMi4wNTEtNC4yOTIgNi41NzNtNi4yMTQgOS4wMjlzLjY3OS41NTktLjc0Ny45OTFjLTIuNzEyLjgyMi0xMS4yODggMS4wNjktMTMuNjY5LjAzMy0uODU2LS4zNzMuNzUtLjg5IDEuMjU0LS45OTguNTI3LS4xMTQuODI4LS4wOTMuODI4LS4wOTMtLjk1My0uNjcxLTYuMTU2IDEuMzE3LTIuNjQzIDEuODg3IDkuNTggMS41NTMgMTcuNDYyLS43IDE0Ljk3Ny0xLjgyTTkuMjkyIDEzLjIxcy00LjM2MiAxLjAzNi0xLjU0NCAxLjQxMmMxLjE4OS4xNTkgMy41NjEuMTIzIDUuNzctLjA2MiAxLjgwNi0uMTUyIDMuNjE4LS40NzcgMy42MTgtLjQ3N3MtLjYzNy4yNzItMS4wOTguNTg3Yy00LjQyOSAxLjE2NS0xMi45ODYuNjIzLTEwLjUyMi0uNTY4IDIuMDgyLTEuMDA2IDMuNzc2LS44OTIgMy43NzYtLjg5Mm03LjgyNCA0LjM3NGM0LjUwMy0yLjM0IDIuNDIxLTQuNTg5Ljk2OC00LjI4NS0uMzU1LjA3NC0uNTE1LjEzOC0uNTE1LjEzOHMuMTMyLS4yMDcuMzg1LS4yOTdjMi44NzUtMS4wMTEgNS4wODYgMi45ODEtLjkyOCA0LjU2MiAwLS4wMDEuMDctLjA2Mi4wOS0uMTE4TTE0LjQwMSAwczIuNDk0IDIuNDk0LTIuMzY1IDYuMzNjLTMuODk2IDMuMDc3LS44ODggNC44MzItLjAwMSA2LjgzNi0yLjI3NC0yLjA1My0zLjk0My0zLjg1OC0yLjgyNC01LjUzOSAxLjY0NC0yLjQ2OSA2LjE5Ny0zLjY2NSA1LjE5LTcuNjI3TTkuNzM0IDIzLjkyNGM0LjMyMi4yNzcgMTAuOTU5LS4xNTMgMTEuMTE2LTIuMTk4IDAgMC0uMzAyLjc3NS0zLjU3MiAxLjM5MS0zLjY4OC42OTQtOC4yMzkuNjEzLTEwLjkzNy4xNjggMC0uMDAxLjU1My40NTcgMy4zOTMuNjM5IiBmaWxsPSIjZmZmZmZmIiBjbGFzcz0iZmlsbC0wMDAwMDAiPjwvcGF0aD48L3N2Zz4=" height="49px" />
 
+  <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate" height="49px" />
+
   <img alt="Spring Framework" src="https://img.shields.io/badge/Spring%20Framework-71ad51?style=for-the-badge&logoColor=fff&logo=spring" height="49px" />
 
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-71ad51?style=for-the-badge&logoColor=fff&logo=spring-boot" height="49px" />
@@ -44,9 +50,10 @@ These are the skills with which I'm entirely comfortable and can start working i
 
   <img alt="Spring Security" src="https://img.shields.io/badge/Spring%20Security-71ad51?style=for-the-badge&logoColor=fff&logo=spring-security" height="49px" />
 
-  <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-58666c?style=for-the-badge&logoColor=fff&logo=hibernate" height="49px" />
+  <img alt="Kafka" src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logoColor=fff&logo=apache-kafka" height="49px" />
 
   <img alt="Maven" src="https://img.shields.io/badge/Maven-5b2a65?style=for-the-badge&logoColor=fff&logo=apache-maven" height="49px" />
+
 
 </div>
 
@@ -58,7 +65,8 @@ These are the skills with which I'm entirely comfortable and can start working i
 
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=fff" height="49px" />
 
-  <img alt="Javascrip" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logoColor=323330&logo=javascript" height="49px" />
+  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logoColor=323330&logo=javascript" height="49px" />
+
 
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=323330" height="49px" />
 
@@ -66,7 +74,9 @@ These are the skills with which I'm entirely comfortable and can start working i
 
   <img alt="Material UI" src="https://img.shields.io/badge/Material%20UI-007FFF.svg?style=for-the-badge&logo=mui&logoColor=fff" height="49px" />
 
-  <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=fff" height="49px" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logoColor=fff&logo=bootstrap" height="49px" />
+
+
 
   <img alt="React Admin" src="https://img.shields.io/badge/React%20Admin-dddddd.svg?style=for-the-badge&logoColor=fff&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDIzLjAuMSwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkNhbHF1ZV8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIKCSB2aWV3Qm94PSIwIDAgMTMxIDEzMSIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMTMxIDEzMTsiIHhtbDpzcGFjZT0icHJlc2VydmUiPgo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPgoJLnN0MHtmaWxsOiMyMjI0NTg7fQoJLnN0MXtmaWxsOiM1MTUzN0Q7fQoJLnN0MntmaWxsOiNBM0E0Qjk7fQoJLnN0M3tmaWxsOiMwMDAyM0I7fQoJLnN0NHtmaWxsOiNGRkZGRkY7fQoJLnN0NXtlbmFibGUtYmFja2dyb3VuZDpuZXcgICAgO30KPC9zdHlsZT4KPHRpdGxlPkxvZ29fc29tYnJlX2FpPC90aXRsZT4KPGcgaWQ9IlJlY3RhbmdsZV81NiI+Cgk8Zz4KCQk8cmVjdCB4PSIxOS4xIiB5PSIxOSIgdHJhbnNmb3JtPSJtYXRyaXgoMC41IC0wLjg2NiAwLjg2NiAwLjUgLTIzLjkyMjYgODkuNTQ2KSIgY2xhc3M9InN0MCIgd2lkdGg9IjkyLjkiIGhlaWdodD0iOTIuOSIvPgoJCTxwYXRoIGNsYXNzPSJzdDEiIGQ9Ik04MywxMzAuM0wwLjgsODIuOUw0OC4yLDAuN2w4Mi4yLDQ3LjVMODMsMTMwLjN6IE0zLjUsODIuMWw3OC43LDQ1LjVsNDUuNS03OC43TDQ5LDMuNEwzLjUsODIuMXoiLz4KCTwvZz4KPC9nPgo8ZyBpZD0iUmVjdGFuZ2xlXzU2LTIiPgoJPGc+CgkJPHJlY3QgeD0iMTkiIHk9IjE5LjEiIHRyYW5zZm9ybT0ibWF0cml4KDAuODY2IC0wLjUgMC41IDAuODY2IC0yMy45Nzc3IDQxLjUyNykiIGNsYXNzPSJzdDAiIHdpZHRoPSI5Mi45IiBoZWlnaHQ9IjkyLjkiLz4KCQk8cGF0aCBjbGFzcz0ic3QyIiBkPSJNNDcuOSwxMzFMMCw0OEw4My4xLDBsNDgsODMuMUw0Ny45LDEzMXogTTQuMSw0OS4xbDQ1LDc3LjlsNzcuOS00NUw4Miw0LjFMNC4xLDQ5LjF6Ii8+Cgk8L2c+CjwvZz4KPGcgaWQ9IlJlY3RhbmdsZV81Ni0zIj4KCTxnPgoJCTxyZWN0IHg9IjE5LjEiIHk9IjE5IiBjbGFzcz0ic3QzIiB3aWR0aD0iOTIuOSIgaGVpZ2h0PSI5Mi45Ii8+CgkJPHBhdGggY2xhc3M9InN0NCIgZD0iTTExNC41LDExNC41SDE2LjZWMTYuNWg5Ny45VjExNC41eiBNMjEuNiwxMDkuNWg4Ny45VjIxLjVIMjEuNlYxMDkuNXoiLz4KCTwvZz4KPC9nPgo8ZyBpZD0iUmEiPgoJPGcgY2xhc3M9InN0NSI+CgkJPHBhdGggY2xhc3M9InN0NCIgZD0iTTU5LDg2LjdsLTYuNy0xOS4yaC0xLjJIMzguOXYxOS4yaC01LjZWMzguNWgxOC41YzMuNiwwLDYuMywwLjYsOC4xLDEuOGMxLjgsMS4yLDMsMi44LDMuNSw0LjgKCQkJYzAuNSwyLDAuOCw0LjYsMC44LDcuOGMwLDMuNS0wLjQsNi40LTEuMyw4LjdjLTAuOCwyLjMtMi42LDMuOS01LjMsNC44TDY1LDg2LjdINTl6IE01NS43LDYxLjZjMS4yLTAuNywyLTEuNywyLjQtMwoJCQljMC40LTEuMywwLjYtMy4yLDAuNi01LjZjMC0yLjUtMC4yLTQuMy0wLjUtNS42Yy0wLjMtMS4zLTEuMS0yLjItMi4zLTIuOWMtMS4yLTAuNy0zLTEtNS41LTFIMzguOXYxOS4xSDUwCgkJCUM1Mi41LDYyLjYsNTQuNCw2Mi4zLDU1LjcsNjEuNnoiLz4KCQk8cGF0aCBjbGFzcz0ic3Q0IiBkPSJNNzQuMyw4NWMtMS42LTEuNS0yLjUtNC4yLTIuNS04LjJjMC0yLjcsMC4zLTQuOCwwLjktNi4zYzAuNi0xLjUsMS42LTIuNiwzLTMuM2MxLjQtMC43LDMuNC0xLDYtMQoJCQljMS4zLDAsNS4xLDAuMSwxMS40LDAuM3YtMi40YzAtMi45LTAuMi01LTAuNy02LjJjLTAuNS0xLjItMS4zLTItMi42LTIuNGMtMS4yLTAuMy0zLjMtMC41LTYuMy0wLjVjLTEuMywwLTMsMC4xLTQuOSwwLjIKCQkJYy0yLDAuMS0zLjYsMC4zLTQuOCwwLjV2LTQuM2MzLjMtMC43LDcuMS0xLDExLjQtMWMzLjcsMCw2LjUsMC40LDguNCwxLjJjMS44LDAuOCwzLjEsMi4yLDMuOCw0LjFjMC43LDEuOSwxLDQuNywxLDguNHYyMi41aC00LjgKCQkJbC0wLjMtNWgtMC4zYy0wLjgsMi4yLTIuMiwzLjctNC4xLDQuNGMtMS45LDAuNy00LjEsMS4xLTYuNiwxLjFDNzguNiw4Ny4yLDc2LDg2LjUsNzQuMyw4NXogTTg5LjEsODJjMS4yLTAuNCwyLjItMS4yLDIuOC0yLjQKCQkJYzAuOS0xLjgsMS4zLTQuMywxLjMtNy4zdi0yaC0xMGMtMS43LDAtMywwLjItMy44LDAuNWMtMC44LDAuMy0xLjQsMC45LTEuNywxLjhjLTAuMywwLjktMC41LDIuMi0wLjUsNGMwLDEuOCwwLjIsMy4xLDAuNiwzLjkKCQkJYzAuNCwwLjgsMS4xLDEuNCwyLDEuOGMxLDAuMywyLjUsMC41LDQuNSwwLjVDODYuMiw4Mi42LDg3LjgsODIuNCw4OS4xLDgyeiIvPgoJPC9nPgo8L2c+Cjwvc3ZnPgo=" height="49px" />
 
@@ -82,6 +92,10 @@ These are the skills with which I'm entirely comfortable and can start working i
 
   <img alt="Mysql" src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logoColor=fff&logo=mysql" height="49px" />
 
+  <img alt="Zelda BotW" src="https://img.shields.io/badge/Zelda%20BotW-4479A1?style=for-the-badge&logoColor=fff&" height="49px" />
+
+  <img alt="Zelda TotK" src="https://img.shields.io/badge/Zelda%20TotK-4479A1?style=for-the-badge&logoColor=fff&" height="49px" />
+
 </div>
 
 ### Proficient (Requires Review or Deepening)
@@ -90,7 +104,25 @@ This category encompasses skills that I have extensively worked with in the past
 
 <div style="display: flex; flex-direction: row; gap: 10px; flex-wrap: wrap;">
 
+  <img alt="JUnit" src="https://img.shields.io/badge/JUnit-3178C6?style=for-the-badge&logoColor=fff&logo=junit5" height="49px" />
+
+  <img alt="Mokito" src="https://img.shields.io/badge/Mokito-3178C6?style=for-the-badge&logoColor=fff" height="49px" />
+
+  <img alt="AssertJ" src="https://img.shields.io/badge/AssertJ-3178C6?style=for-the-badge&logoColor=fff" height="49px" />
+
+  <img alt="JSF" src="https://img.shields.io/badge/JSF-5382a1?style=for-the-badge&labelColor=5382a1" height="49px" />  
+
+  <img alt="EJB" src="https://img.shields.io/badge/EJB-5382a1?style=for-the-badge&labelColor=5382a1" height="49px" />
+
+  <img alt="Swing" src="https://img.shields.io/badge/Swing-5382a1?style=for-the-badge&labelColor=5382a1" height="49px" />
+
   <img alt="Typescript" src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" height="49px" />
+
+  <img alt="React Query" src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logoColor=fff&logo=react-query" height="49px" />
+
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=fff" height="49px" />
+
+  <img alt="Content Layer" src="https://img.shields.io/badge/Content%20Layer-8b5cf6?style=for-the-badge&logo=typescript&logoColor=fff" height="49px" />
 
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" height="49px" />
 
@@ -102,12 +134,6 @@ This category encompasses skills that I have extensively worked with in the past
 
   <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logoColor=fff&logo=oracle" height="49px" />
 
-  <img alt="JSF" src="https://img.shields.io/badge/JSF-5382a1?style=for-the-badge&labelColor=5382a1" height="49px" />  
-
-  <img alt="EJB" src="https://img.shields.io/badge/EJB-5382a1?style=for-the-badge&labelColor=5382a1" height="49px" />
-
-  <img alt="Swing" src="https://img.shields.io/badge/Swing-5382a1?style=for-the-badge&labelColor=5382a1" height="49px" />
-
 </div>
 
 ### Familiar (Requires Practice)
@@ -118,7 +144,11 @@ These are skills I'm familiar with and have some degree of experience with, but 
 
   <img alt="Node" src="https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=node.js&logoColor=fff" height="49px" />
 
-  <img alt="Express" src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=fff" height="49px" />
+  <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logoColor=fff&logo=express" height="49px" />
+
+  <img alt="React Router" src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logoColor=fff&logo=react-router" height="49px" />
+
+  <img alt="Strapi" src="https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logoColor=fff&logo=strapi" height="49px" />
 
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=fff" height="49px" />
 
@@ -139,6 +169,8 @@ These are the technologies I'm actively learning and working to add to my skill 
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=fff" height="49px" />
 
   <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logoColor=fff&logo=go" height="49px" />
+
+  <img alt="gRPC" src="https://img.shields.io/badge/gRPC-cccccc?style=for-the-badge&logoColor=fff&logo=grpc" height="49px" />
 
 </div>
 
