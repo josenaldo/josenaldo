@@ -185,7 +185,7 @@ In a nutshell:
 - Although I haven't completed a formal degree in the field, I am constantly enriching my knowledge and skills through various courses, especially in the last 2 years.
 - I've worked in the industry for over 20 years.
 - I've had the opportunity to work extensively with languages like Java, JavaScript, and Python.
-- At present, I'm concentrating on full-stack JavaScript development, with a particular focus on React and Express.
+- At present, I'm concentrating on full-stack development, with Java and Spring, on the backend, and React on the frontend.
 
 I invite you to explore my website for a closer look at my journey and my work!
 
