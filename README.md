@@ -2,6 +2,10 @@
 
 Hello! My name is Josenaldo, but you can call me JOM. I'm a software developer based in Uberlândia, Minas Gerais, Brazil. My expertise lies in full stack development, with over 20 years of experience in the field. I have a deep proficiency in Java, particularly with Spring, and in Javascript, focusing on React. I'm always striving to enhance my skills and deliver high-quality software solutions. I'm available to collaborate on challenging and innovative projects.
 
+## 📃 Resume
+
+You can find my resume [here](JosenaldoDeOliveiraMatosFilho.pdf).
+
 ## 🛠️ Skills & Proficiencies
 
 Throughout my career, I've gained a wide array of technical skills, varying in levels of proficiency. I've categorized them into four main groups to provide a clear understanding of my capabilities:
@@ -74,10 +78,6 @@ These are the skills with which I'm entirely comfortable and can start working i
 
   <img alt="Material UI" src="https://img.shields.io/badge/Material%20UI-007FFF.svg?style=for-the-badge&logo=mui&logoColor=fff" height="49px" />
 
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logoColor=fff&logo=bootstrap" height="49px" />
-
-
-
   <img alt="React Admin" src="https://img.shields.io/badge/React%20Admin-dddddd.svg?style=for-the-badge&logoColor=fff&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDIzLjAuMSwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkNhbHF1ZV8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIKCSB2aWV3Qm94PSIwIDAgMTMxIDEzMSIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMTMxIDEzMTsiIHhtbDpzcGFjZT0icHJlc2VydmUiPgo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPgoJLnN0MHtmaWxsOiMyMjI0NTg7fQoJLnN0MXtmaWxsOiM1MTUzN0Q7fQoJLnN0MntmaWxsOiNBM0E0Qjk7fQoJLnN0M3tmaWxsOiMwMDAyM0I7fQoJLnN0NHtmaWxsOiNGRkZGRkY7fQoJLnN0NXtlbmFibGUtYmFja2dyb3VuZDpuZXcgICAgO30KPC9zdHlsZT4KPHRpdGxlPkxvZ29fc29tYnJlX2FpPC90aXRsZT4KPGcgaWQ9IlJlY3RhbmdsZV81NiI+Cgk8Zz4KCQk8cmVjdCB4PSIxOS4xIiB5PSIxOSIgdHJhbnNmb3JtPSJtYXRyaXgoMC41IC0wLjg2NiAwLjg2NiAwLjUgLTIzLjkyMjYgODkuNTQ2KSIgY2xhc3M9InN0MCIgd2lkdGg9IjkyLjkiIGhlaWdodD0iOTIuOSIvPgoJCTxwYXRoIGNsYXNzPSJzdDEiIGQ9Ik04MywxMzAuM0wwLjgsODIuOUw0OC4yLDAuN2w4Mi4yLDQ3LjVMODMsMTMwLjN6IE0zLjUsODIuMWw3OC43LDQ1LjVsNDUuNS03OC43TDQ5LDMuNEwzLjUsODIuMXoiLz4KCTwvZz4KPC9nPgo8ZyBpZD0iUmVjdGFuZ2xlXzU2LTIiPgoJPGc+CgkJPHJlY3QgeD0iMTkiIHk9IjE5LjEiIHRyYW5zZm9ybT0ibWF0cml4KDAuODY2IC0wLjUgMC41IDAuODY2IC0yMy45Nzc3IDQxLjUyNykiIGNsYXNzPSJzdDAiIHdpZHRoPSI5Mi45IiBoZWlnaHQ9IjkyLjkiLz4KCQk8cGF0aCBjbGFzcz0ic3QyIiBkPSJNNDcuOSwxMzFMMCw0OEw4My4xLDBsNDgsODMuMUw0Ny45LDEzMXogTTQuMSw0OS4xbDQ1LDc3LjlsNzcuOS00NUw4Miw0LjFMNC4xLDQ5LjF6Ii8+Cgk8L2c+CjwvZz4KPGcgaWQ9IlJlY3RhbmdsZV81Ni0zIj4KCTxnPgoJCTxyZWN0IHg9IjE5LjEiIHk9IjE5IiBjbGFzcz0ic3QzIiB3aWR0aD0iOTIuOSIgaGVpZ2h0PSI5Mi45Ii8+CgkJPHBhdGggY2xhc3M9InN0NCIgZD0iTTExNC41LDExNC41SDE2LjZWMTYuNWg5Ny45VjExNC41eiBNMjEuNiwxMDkuNWg4Ny45VjIxLjVIMjEuNlYxMDkuNXoiLz4KCTwvZz4KPC9nPgo8ZyBpZD0iUmEiPgoJPGcgY2xhc3M9InN0NSI+CgkJPHBhdGggY2xhc3M9InN0NCIgZD0iTTU5LDg2LjdsLTYuNy0xOS4yaC0xLjJIMzguOXYxOS4yaC01LjZWMzguNWgxOC41YzMuNiwwLDYuMywwLjYsOC4xLDEuOGMxLjgsMS4yLDMsMi44LDMuNSw0LjgKCQkJYzAuNSwyLDAuOCw0LjYsMC44LDcuOGMwLDMuNS0wLjQsNi40LTEuMyw4LjdjLTAuOCwyLjMtMi42LDMuOS01LjMsNC44TDY1LDg2LjdINTl6IE01NS43LDYxLjZjMS4yLTAuNywyLTEuNywyLjQtMwoJCQljMC40LTEuMywwLjYtMy4yLDAuNi01LjZjMC0yLjUtMC4yLTQuMy0wLjUtNS42Yy0wLjMtMS4zLTEuMS0yLjItMi4zLTIuOWMtMS4yLTAuNy0zLTEtNS41LTFIMzguOXYxOS4xSDUwCgkJCUM1Mi41LDYyLjYsNTQuNCw2Mi4zLDU1LjcsNjEuNnoiLz4KCQk8cGF0aCBjbGFzcz0ic3Q0IiBkPSJNNzQuMyw4NWMtMS42LTEuNS0yLjUtNC4yLTIuNS04LjJjMC0yLjcsMC4zLTQuOCwwLjktNi4zYzAuNi0xLjUsMS42LTIuNiwzLTMuM2MxLjQtMC43LDMuNC0xLDYtMQoJCQljMS4zLDAsNS4xLDAuMSwxMS40LDAuM3YtMi40YzAtMi45LTAuMi01LTAuNy02LjJjLTAuNS0xLjItMS4zLTItMi42LTIuNGMtMS4yLTAuMy0zLjMtMC41LTYuMy0wLjVjLTEuMywwLTMsMC4xLTQuOSwwLjIKCQkJYy0yLDAuMS0zLjYsMC4zLTQuOCwwLjV2LTQuM2MzLjMtMC43LDcuMS0xLDExLjQtMWMzLjcsMCw2LjUsMC40LDguNCwxLjJjMS44LDAuOCwzLjEsMi4yLDMuOCw0LjFjMC43LDEuOSwxLDQuNywxLDguNHYyMi41aC00LjgKCQkJbC0wLjMtNWgtMC4zYy0wLjgsMi4yLTIuMiwzLjctNC4xLDQuNGMtMS45LDAuNy00LjEsMS4xLTYuNiwxLjFDNzguNiw4Ny4yLDc2LDg2LjUsNzQuMyw4NXogTTg5LjEsODJjMS4yLTAuNCwyLjItMS4yLDIuOC0yLjQKCQkJYzAuOS0xLjgsMS4zLTQuMywxLjMtNy4zdi0yaC0xMGMtMS43LDAtMywwLjItMy44LDAuNWMtMC44LDAuMy0xLjQsMC45LTEuNywxLjhjLTAuMywwLjktMC41LDIuMi0wLjUsNGMwLDEuOCwwLjIsMy4xLDAuNiwzLjkKCQkJYzAuNCwwLjgsMS4xLDEuNCwyLDEuOGMxLDAuMywyLjUsMC41LDQuNSwwLjVDODYuMiw4Mi42LDg3LjgsODIuNCw4OS4xLDgyeiIvPgoJPC9nPgo8L2c+Cjwvc3ZnPgo=" height="49px" />
 
   <img alt="React Hook Form" src="https://img.shields.io/badge/React%20Hook%20Form-EC5990.svg?style=for-the-badge&logoColor=fff&logo=react-hook-form" height="49px" />
@@ -96,6 +96,8 @@ These are the skills with which I'm entirely comfortable and can start working i
 
   <img alt="Zelda TotK" src="https://img.shields.io/badge/Zelda%20TotK-4479A1?style=for-the-badge&logoColor=fff&" height="49px" />
 
+  <img alt="Farofa Lampião e Julieta" src="https://img.shields.io/badge/Farofa%20Lampião%20e%20Julieta-F05032?style=for-the-badge&logoColor=fff&" height="49px" />
+
 </div>
 
 ### Proficient (Requires Review or Deepening)
@@ -108,19 +110,15 @@ This category encompasses skills that I have extensively worked with in the past
 
   <img alt="Mokito" src="https://img.shields.io/badge/Mokito-3178C6?style=for-the-badge&logoColor=fff" height="49px" />
 
-  <img alt="AssertJ" src="https://img.shields.io/badge/AssertJ-3178C6?style=for-the-badge&logoColor=fff" height="49px" />
-
   <img alt="JSF" src="https://img.shields.io/badge/JSF-5382a1?style=for-the-badge&labelColor=5382a1" height="49px" />  
 
   <img alt="EJB" src="https://img.shields.io/badge/EJB-5382a1?style=for-the-badge&labelColor=5382a1" height="49px" />
 
-  <img alt="Swing" src="https://img.shields.io/badge/Swing-5382a1?style=for-the-badge&labelColor=5382a1" height="49px" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logoColor=fff&logo=bootstrap" height="49px" />
 
   <img alt="Typescript" src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" height="49px" />
 
   <img alt="React Query" src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logoColor=fff&logo=react-query" height="49px" />
-
-  <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=fff" height="49px" />
 
   <img alt="Content Layer" src="https://img.shields.io/badge/Content%20Layer-8b5cf6?style=for-the-badge&logo=typescript&logoColor=fff" height="49px" />
 
@@ -130,10 +128,6 @@ This category encompasses skills that I have extensively worked with in the past
 
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logoColor=fff&logo=postgresql" height="49px" />
 
-  <img alt="Sql Server" src="https://img.shields.io/badge/SQL Server-CC2927?style=for-the-badge&logoColor=fff&logo=microsoft-sql-server" height="49px" />
-
-  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logoColor=fff&logo=oracle" height="49px" />
-
 </div>
 
 ### Familiar (Requires Practice)
@@ -142,7 +136,13 @@ These are skills I'm familiar with and have some degree of experience with, but 
 
 <div style="display: flex; flex-direction: row; gap: 10px; flex-wrap: wrap;">
 
+  <img alt="AssertJ" src="https://img.shields.io/badge/AssertJ-3178C6?style=for-the-badge&logoColor=fff" height="49px" />
+
+  <img alt="Jest" src="https://img.shields.io/badge/Jest-3178C6?style=for-the-badge&logoColor=fff" height="49px" />
+
   <img alt="Node" src="https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=node.js&logoColor=fff" height="49px" />
+
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=fff" height="49px" />
 
   <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logoColor=fff&logo=express" height="49px" />
 
@@ -153,6 +153,11 @@ These are skills I'm familiar with and have some degree of experience with, but 
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=fff" height="49px" />
 
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=fff" height="49px" />
+
+  <img alt="Sql Server" src="https://img.shields.io/badge/SQL Server-CC2927?style=for-the-badge&logoColor=fff&logo=microsoft-sql-server" height="49px" />
+
+  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logoColor=fff&logo=oracle" height="49px" />
+
 
 </div>
 
