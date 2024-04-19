@@ -4,7 +4,14 @@ Hello! My name is Josenaldo, but you can call me JOM. I'm a software developer b
 
 ## 📃 Resume
 
-You can find my resume [here](JosenaldoDeOliveiraMatosFilho.pdf).
+You can find my resume here:
+
+- PT-BR
+  - [JosenaldoDeOliveiraMatosFilho.pdf](/resume/pt/JosenaldoDeOliveiraMatosFilho.pdf).
+  - [JosenaldoDeOliveiraMatosFilho.docx](/resume/pt/JosenaldoDeOliveiraMatosFilho.docx).
+- EN-US
+  - [JosenaldoDeOliveiraMatosFilho.pdf](/resume/en/JosenaldoDeOliveiraMatosFilho.pdf).
+  - [JosenaldoDeOliveiraMatosFilho.docx](/resume/en/JosenaldoDeOliveiraMatosFilho.docx).
 
 ## 🛠️ Skills & Proficiencies
 
