@@ -30,23 +30,25 @@ I'm entirely comfortable with these skills and can start working immediately wit
 
 This category encompasses skills I have worked extensively in the past but may require time to review and update myself on the latest practices and techniques to work effectively with them again. Additionally, it includes technologies I am currently working with, but I still need to acquire the depth of knowledge to consider myself an expert. I am actively learning and improving in these areas to broaden my skill set.
 
-- Software Architecture, Clean Code, Clean Architecture, Domain-Driven Design, Microservices, Progressive Web Apps, Mentoring Junior Developers, Software Automated Testing
-- Junit, Mockito, JSF, EJB, Python
-- Bootstrap, Typescript, Tan Stack Query (React Query), Content Layer
-- Docker, Gitlab, SQL, PostgreSQL, Scrum, Kanban
+- Software Architecture, Clean Architecture, Domain-Driven Design, Microservices, Progressive Web Apps, Mentoring Junior Developers, Software Testing, Database Modeling
+- Junit, Mockito, JSF, EJB, CDI, Python
+- Bootstrap, Typescript, Content Layer
+- Docker, SQL, PostgreSQL, Scrum, Kanban, Notion
 
 ### Familiar (Requires Practice)
 
 I'm familiar with and have some degree of experience with these skills, but I would need some time to practice and deepen my proficiency before I could work effectively with them.
 
-- AssertJ, Jest, Node, Redux, Express, React Router, Strapi, Django, Pandas
-- SQL Server, Oracle, CI/CD, Jenkins, Jira, Trello
+- Clean Code,
+- Hamcrest, AssertJ, Jest, Node, Tan Stack Query, Redux, Express, React Router, Strapi, Django, Pandas, Thymeleaf
+- SQL Server, Oracle, CI/CD, Jenkins, Jira, Trello, Gitlab, AWS, Heroku
 
 ### Learner (Requires Learning)
 
 These are the technologies I'm actively learning and working to add to my skill set.
 
-- GraphQL, GRPC, Go, AWS, MongoDB
+- GraphQL, GRPC, Go, MongoDB
+- Event Sourcing, CQRS, Event Storming, Event Driven Architecture
 
 ## 🛠️ Experience, Projects and Education
 
