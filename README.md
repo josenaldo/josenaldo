@@ -40,14 +40,14 @@ This category encompasses skills I have worked extensively in the past but may r
 I'm familiar with and have some degree of experience with these skills, but I would need some time to practice and deepen my proficiency before I could work effectively with them.
 
 - Clean Code,
-- Hamcrest, AssertJ, Jest, Node, Tan Stack Query, Redux, Express, React Router, Strapi, Django, Pandas, Thymeleaf
+- Hamcrest, AssertJ, Jest, Supertest, Node, Tan Stack Query, Redux, Express, React Router, Strapi, Django, Pandas, Thymeleaf
 - SQL Server, Oracle, CI/CD, Jenkins, Jira, Trello, Gitlab, AWS, Heroku
 
 ### Learner (Requires Learning)
 
 These are the technologies I'm actively learning and working to add to my skill set.
 
-- GraphQL, GRPC, Go, MongoDB
+- GraphQL, GRPC, Go, MongoDB, Keycloak, SonarQube
 - Event Sourcing, CQRS, Event Storming, Event Driven Architecture
 
 ## 🛠️ Experience, Projects and Education
