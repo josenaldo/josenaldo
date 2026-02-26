@@ -14,6 +14,8 @@
 `Java` · `Spring Boot` · `React` · `TypeScript` · `Next.js` · `Node.js` · `PostgreSQL` · `Docker` · `GitHub Actions`
 Architecture: Clean · Hexagonal · DDD · Microservices
 
+![My Stack](https://skillicons.dev/icons?i=java,spring,react,ts,nextjs,nodejs,postgres,docker,github&theme=dark)
+
 ## About
 
 20+ years writing software — Java on the backend, React/TypeScript on the frontend, with a growing focus on system architecture and the decisions that hold up under pressure.
