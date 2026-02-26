@@ -1,0 +1,24 @@
+name: Update README with latest blog posts
+
+on:
+  schedule:
+    # Runs every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: 'https://josenaldo.com.br/rss.xml'
+          max_post_count: 5
+          readme_path: './README.md'
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: 'chore: update README with latest blog posts'
+          committer_username: 'github-actions[bot]'
+          committer_email: 'github-actions[bot]@users.noreply.github.com'
