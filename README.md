@@ -64,10 +64,6 @@ Full portfolio, blog, and resume: **[josenaldo.com.br](https://josenaldo.com.br)
 
 <div style="display: flex; flex-direction: column; gap: 10px; flex-wrap: wrap; align-items: center;">
 
-![Josenaldo's github stats](https://github-readme-stats.vercel.app/api?username=josenaldo&show_icons=true&theme=tokyonight)
-
 ![Josenaldo's streak](https://github-readme-streak-stats.herokuapp.com/?user=josenaldo&theme=tokyonight)
-
-![Josenaldo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josenaldo&theme=tokyonight&layout=compact)
 
 </div>
