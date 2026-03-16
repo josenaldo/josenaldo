@@ -29,11 +29,11 @@ Full portfolio, blog, and resume: **[josenaldo.com.br](https://josenaldo.com.br)
 ## Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Context Engineering: como transformar agentes de IA em desenvolvedores confiáveis](https://josenaldo.github.io/blog/context-engineering-guia-completo)
 - [Como escrever o seu currículo como desenvolvedor](https://josenaldo.github.io/blog/como-escrever-o-seu-curriculo)
 - [AI and Developers: Another Brick or Another Floor?](https://josenaldo.github.io/blog/ai-and-developers-another-brick-or-another-floor)
 - [The first draft of Programação Orientada a Gambiarra](https://josenaldo.github.io/blog/first-draft-programacao-orientada-a-gambiarra)
 - [Interfaces aren&#39;t villains](https://josenaldo.github.io/blog/interfaces-arent-villains)
-- [Why am I still invisible?](https://josenaldo.github.io/blog/why-am-i-still-invisible)
 <!-- BLOG-POST-LIST:END -->
 
 ---
