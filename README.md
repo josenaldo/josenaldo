@@ -29,11 +29,11 @@ Full portfolio, blog, and resume: **[josenaldo.com.br](https://josenaldo.com.br)
 ## Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Didn&#39;t Organize My Life. It Helped Me Get My House in Order](https://josenaldo.github.io/blog/ai-did-not-organize-my-life-it-helped-me-get-my-house-in-order)
+- [A IA não organizou minha vida. Ela me ajudou a arrumar a casa](https://josenaldo.github.io/blog/ia-nao-organizou-minha-vida-ela-me-ajudou-a-arrumar-a-casa)
+- [Escreva em português: o gargalo da IA não é o idioma, é a sua expressividade](https://josenaldo.github.io/blog/escreva-em-portugues-o-gargalo-da-ia-nao-e-o-idioma)
+- [A pastelização do desenvolvimento de software](https://josenaldo.github.io/blog/pastelizacao-do-desenvolvimento-de-software)
 - [Context Engineering: como transformar agentes de IA em desenvolvedores confiáveis](https://josenaldo.github.io/blog/context-engineering-guia-completo)
-- [Como escrever o seu currículo como desenvolvedor](https://josenaldo.github.io/blog/como-escrever-o-seu-curriculo)
-- [AI and Developers: Another Brick or Another Floor?](https://josenaldo.github.io/blog/ai-and-developers-another-brick-or-another-floor)
-- [The first draft of Programação Orientada a Gambiarra](https://josenaldo.github.io/blog/first-draft-programacao-orientada-a-gambiarra)
-- [Interfaces aren&#39;t villains](https://josenaldo.github.io/blog/interfaces-arent-villains)
 <!-- BLOG-POST-LIST:END -->
 
 ---
